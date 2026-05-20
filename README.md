@@ -1,10 +1,10 @@
-# [Duckyo Fanboy] 
+# Duckyo Fanboy 
 
 Duckyo Fans
 
  
 
-# Hi, I'm [Duckyo Fanboy]! 👋 
+# Hi, I'm Duckyo Fanboy! 👋 
 
  
 
@@ -24,4 +24,4 @@ Worshipping duckyos
 
 [![portfolio](https://www.dsta.gov.sg/)](https://www.dsta.gov.sg/) 
 
-[![linkedin](https://sg.linkedin.com/in/joshua-chiew-19839a208)](https://sg.linkedin.com/in/matthew-ng-384975130)
+[![linkedin](https://prod-eurasian-res.popmart.com/default/20250826_100822_122814____1_____1200x1200.jpg)](https://sg.linkedin.com/in/matthew-ng-384975130)
